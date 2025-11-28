@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Paul Osuigwe @Loopcodes.
-- 👀 I’m interested in sports, metaverse, food, technology and style.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on amazing ideas!
+- 👨🏽‍💻 Hi, I’m Paul Osuigwe @paulwebdv.
+- 💡 I’m currently learning React.
+- 🤝 I’m looking to collaborate on amazing ideas!
 - 📫 You could reach out to me on Linkedin: Paul Osuigwe, Twitter: POsuigwe, Whatsapp: +234 807 4916 871.
 
 <!---
